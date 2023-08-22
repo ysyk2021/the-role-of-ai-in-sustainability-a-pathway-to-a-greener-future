@@ -1,5 +1,4 @@
-Chapter 6: AI-Enabled Sustainability Strategies for Individuals and Communities
-===============================================================================
+
 
 Individuals and communities play a critical role in addressing sustainability challenges. By adopting sustainable practices and participating in community engagement and activism, we can work towards a greener future. In this chapter, we will explore AI-enabled sustainability strategies for individuals and communities.
 

@@ -1,5 +1,4 @@
-Different Types of AI Techniques and Platforms for Environmental Analysis and Management
-========================================================================================================================================================================
+
 
 AI technology offers a wide range of techniques and platforms that can be applied to environmental analysis and management. In this chapter, we will explore some of the different types of AI techniques and platforms used for sustainability efforts.
 

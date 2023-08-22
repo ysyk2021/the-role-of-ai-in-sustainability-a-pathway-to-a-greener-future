@@ -1,5 +1,4 @@
-Identifying Key Performance Metrics and Goals for AI-Enabled Sustainability Improvement and Optimization
-==================================================================================================================================================================
+
 
 As AI technology is increasingly used to address sustainability challenges, it is important to evaluate its impact on sustainability outcomes. In this chapter, we will explore key performance metrics and goals for evaluating the impact of AI on sustainability.
 

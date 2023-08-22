@@ -1,5 +1,4 @@
-Chapter 7: Evaluating the Impact of AI on Sustainability
-========================================================
+
 
 As AI technology is increasingly used to address sustainability challenges, it is important to evaluate its impact on sustainability outcomes. In this chapter, we will explore how to measure the effectiveness and benefits of AI-enabled sustainability for business, society, and the environment.
 

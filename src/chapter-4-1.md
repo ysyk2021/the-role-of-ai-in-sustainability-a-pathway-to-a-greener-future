@@ -1,5 +1,4 @@
-Increasing Resilience and Managing Risks with AI-Enabled Disaster Response and Emergency Planning
-===========================================================================================================================================================================
+
 
 Disasters such as natural disasters, pandemics, and terrorist attacks can have devastating effects on communities and the environment. AI-enabled disaster response and emergency planning can help increase resilience and manage risks in urban and community development. In this chapter, we will explore some of the ways in which AI technologies can be used to improve disaster response and emergency planning.
 

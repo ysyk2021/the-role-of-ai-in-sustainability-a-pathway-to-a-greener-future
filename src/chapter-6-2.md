@@ -1,5 +1,4 @@
-Participating in AI-Enabled Community Engagement and Activism for Environmental Change
-=======================================================================================================================================================================
+
 
 Communities can leverage AI technology to engage in sustainability activism and create positive environmental change. By participating in AI-enabled community engagement, individuals can work together to create a greener future.
 

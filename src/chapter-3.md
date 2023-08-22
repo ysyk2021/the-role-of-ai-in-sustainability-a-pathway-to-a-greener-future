@@ -1,5 +1,4 @@
-Chapter 3: AI-Enabled Sustainability for Business and Industry
-==============================================================
+
 
 Business and industry play a significant role in driving sustainability through their operations. AI-enabled solutions can help businesses to optimize energy efficiency, reduce waste, and promote sustainable practices. In this chapter, we will explore some of the ways in which AI technologies can be used to promote sustainable business and industry.
 

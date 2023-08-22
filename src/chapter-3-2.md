@@ -1,5 +1,4 @@
-Applying AI Insights to Enhance Supply Chain Management and Logistics for Sustainable Operations
-================================================================================================================================================================
+
 
 Business and industry are major contributors to environmental degradation, but they also have the potential to drive sustainability through their operations. AI-enabled solutions can play a crucial role in enhancing supply chain management and logistics for sustainable operations. In this chapter, we will explore some of the ways in which AI technologies can be used for sustainable business and industry.
 

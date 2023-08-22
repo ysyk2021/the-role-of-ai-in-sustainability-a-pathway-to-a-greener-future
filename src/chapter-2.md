@@ -1,5 +1,4 @@
-Chapter 2: Understanding AI Technology and Its Applications for Sustainability
-==============================================================================
+
 
 Artificial intelligence (AI) technology has the potential to revolutionize sustainability efforts by providing more accurate insights and solutions. In this chapter, we will explore the basic principles and processes of AI algorithms and machine learning models for sustainability, different types of AI techniques and platforms for environmental analysis and management, and tools and software for AI-enabled sustainability planning and performance tracking.
 

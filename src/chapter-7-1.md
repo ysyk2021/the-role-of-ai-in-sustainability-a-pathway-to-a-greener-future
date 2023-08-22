@@ -1,5 +1,4 @@
-Measuring the Effectiveness and Benefits of AI-Enabled Sustainability for Business, Society, and Environment
-======================================================================================================================================================================
+
 
 As AI technology is increasingly used to address sustainability challenges, it is important to evaluate its impact on sustainability outcomes. In this chapter, we will explore how to measure the effectiveness and benefits of AI-enabled sustainability for business, society, and the environment.
 
