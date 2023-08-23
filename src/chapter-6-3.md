@@ -1,5 +1,4 @@
 
-
 Communities can leverage AI technology to create sustainable solutions and innovations that contribute to a greener future. By collaborating with AI, communities can develop effective and innovative solutions for addressing sustainability challenges.
 
 Citizen Science Projects

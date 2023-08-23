@@ -1,5 +1,4 @@
 
-
 AI technology offers a wide range of tools and software that can be applied to sustainability planning and performance tracking. In this chapter, we will explore some of the different types of tools and software used for AI-enabled sustainability solutions.
 
 Data Management and Analysis Tools

@@ -1,5 +1,4 @@
 
-
 As the use of AI technologies in sustainability continues to grow, it is important to consider the potential challenges and risks associated with their adoption. In this chapter, we will explore some of the key challenges and risks of AI adoption in sustainability, and discuss how these can be addressed.
 
 Challenge: Lack of Data and Quality Data

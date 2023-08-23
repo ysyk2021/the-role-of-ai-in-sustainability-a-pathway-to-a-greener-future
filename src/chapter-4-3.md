@@ -1,5 +1,4 @@
 
-
 As the world becomes increasingly urbanized, promoting sustainability in urban and community development has become increasingly important. AI-enabled smart city and mobility solutions can play a key role in achieving this goal. In this chapter, we will explore some of the ways in which AI technologies can be used to promote green communities and transportation.
 
 Smart City Planning and Management

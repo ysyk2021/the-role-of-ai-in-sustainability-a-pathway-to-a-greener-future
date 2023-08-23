@@ -1,5 +1,4 @@
 
-
 Urban and community development is a critical component of sustainability, as it determines the long-term impact of cities on the environment. AI-enabled solutions can play a crucial role in improving urban planning, promoting green communities, and increasing resilience to disasters. In this chapter, we will explore some of the ways in which AI technologies can be used for sustainable urban development.
 
 Increasing Resilience and Managing Risks with AI-Enabled Disaster Response and Emergency Planning
