@@ -1,5 +1,4 @@
-Chapter 12: Challenges and Risks of AI Adoption in Sustainability and How to Overcome Them
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the challenges and risks associated with the adoption of artificial intelligence (AI) in sustainability initiatives. Understanding these challenges is crucial for businesses and organizations seeking to harness AI's potential for a greener future. We also provide insights into strategies for overcoming these obstacles.
 

@@ -1,5 +1,4 @@
-Chapter 11: Improving Urban Planning and Infrastructure Development with AI-Enabled Analytics and Simulation
-============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the pivotal role that artificial intelligence (AI) plays in revolutionizing urban planning and infrastructure development. AI-powered analytics and simulation tools are transforming the way cities are designed, built, and managed, with a focus on sustainability, resilience, and efficiency.
 

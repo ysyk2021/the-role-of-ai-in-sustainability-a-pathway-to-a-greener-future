@@ -1,5 +1,4 @@
-Chapter 13: Emerging Trends and Opportunities in AI for Sustainable Development and Innovation
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the cutting-edge trends and exciting opportunities that are shaping the landscape of artificial intelligence (AI) in the context of sustainable development and innovation. These emerging trends have the potential to drive transformative change and propel us towards a greener and more sustainable future.
 

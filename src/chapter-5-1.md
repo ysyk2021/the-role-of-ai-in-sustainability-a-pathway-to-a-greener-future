@@ -1,5 +1,4 @@
-Chapter 8: Protecting Biodiversity and Ecosystems with AI-Enabled Monitoring and Data Analysis
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the pivotal role of artificial intelligence (AI) in safeguarding biodiversity and ecosystems. AI-driven monitoring and data analysis are instrumental in preserving the delicate balance of our natural world, ultimately paving the way for a greener and more sustainable future.
 

@@ -1,5 +1,4 @@
-Chapter 7: Increasing Resilience and Managing Risks with AI-Enabled Disaster Response and Emergency Planning
-============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the pivotal role of artificial intelligence in enhancing resilience and managing risks associated with disaster response and emergency planning for a sustainable and greener future. AI technologies have the potential to revolutionize the way we prepare for and respond to disasters, ensuring the safety of communities and the preservation of the environment.
 

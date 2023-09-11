@@ -1,5 +1,4 @@
-Chapter 6: Participating in AI-Enabled Community Engagement and Activism for Environmental Change
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting intersection of AI and community engagement in the context of environmental sustainability. Harnessing the power of artificial intelligence can empower individuals and communities to take proactive steps toward a greener future. We will delve into the various ways AI enables community engagement and activism for environmental change.
 

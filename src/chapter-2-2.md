@@ -1,5 +1,4 @@
-Chapter 4: Different Types of AI Techniques and Platforms for Environmental Analysis and Management
-===================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the diverse array of AI techniques and platforms that are instrumental in environmental analysis and management. These technologies enable us to better understand our ecosystem, make informed decisions, and develop sustainable solutions for a greener future.
 

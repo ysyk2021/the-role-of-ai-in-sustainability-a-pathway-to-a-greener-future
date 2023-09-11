@@ -1,5 +1,4 @@
-Chapter 10: Applying AI Insights to Enhance Supply Chain Management and Logistics for Sustainable Operations
-============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the pivotal role of artificial intelligence (AI) in revolutionizing supply chain management and logistics to drive sustainability in operations. AI-powered insights and innovations are transforming the way businesses manage their supply chains, promoting efficiency, reducing waste, and contributing to a greener future.
 

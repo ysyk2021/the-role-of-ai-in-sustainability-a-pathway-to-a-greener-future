@@ -1,5 +1,4 @@
-Chapter 3: Tools and Software for AI-Enabled Sustainability Planning and Performance Tracking
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the essential tools and software solutions that play a crucial role in leveraging artificial intelligence (AI) for sustainability planning and performance tracking. These tools empower organizations and individuals to make data-driven decisions, optimize resource utilization, and monitor progress towards a greener future.
 

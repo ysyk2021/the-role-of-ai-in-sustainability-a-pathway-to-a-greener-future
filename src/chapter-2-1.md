@@ -1,5 +1,4 @@
-Chapter 12: Basic Principles and Processes of AI Algorithms and Machine Learning Models for Sustainability
-==========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will lay the foundation for understanding the fundamental principles and processes of AI algorithms and machine learning models as they relate to sustainability. We will explore how these technologies are employed to address environmental and social challenges, providing a pathway to a greener and more sustainable future.
 

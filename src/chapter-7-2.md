@@ -1,5 +1,4 @@
-Chapter 7: Identifying Key Performance Metrics and Goals for AI-Enabled Sustainability Improvement and Optimization
-===================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the crucial task of defining key performance metrics and goals for harnessing the power of artificial intelligence (AI) in driving sustainability improvements and optimizations. Establishing clear objectives and measuring progress is essential to ensuring that AI contributes effectively to a greener future.
 

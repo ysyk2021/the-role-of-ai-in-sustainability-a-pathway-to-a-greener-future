@@ -1,5 +1,4 @@
-Chapter 6: Optimizing Water and Land Use with AI-Enabled Precision Agriculture and Resource Management
-======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the transformative potential of artificial intelligence (AI) in the realm of agriculture and resource management. AI-driven precision agriculture and resource optimization techniques offer innovative solutions to improve productivity, conserve resources, and contribute to a greener future.
 

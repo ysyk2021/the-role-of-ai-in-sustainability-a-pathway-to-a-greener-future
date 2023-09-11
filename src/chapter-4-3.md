@@ -1,5 +1,4 @@
-Chapter 10: Promoting Green Communities and Transportation with AI-Enabled Smart City and Mobility Solutions
-============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how artificial intelligence (AI) plays a transformative role in creating sustainable and eco-friendly communities through the implementation of smart city and mobility solutions. AI-powered technologies are driving innovation in urban planning, transportation, and infrastructure, paving the way for greener, more efficient, and environmentally conscious cities.
 

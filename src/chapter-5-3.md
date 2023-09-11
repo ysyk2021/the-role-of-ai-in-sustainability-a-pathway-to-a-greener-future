@@ -1,5 +1,4 @@
-Chapter 5: Combating Climate Change and Pollution with AI-Enabled Climate Modeling and Environmental Policy
-===========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the pivotal role that artificial intelligence (AI) plays in addressing two of the most pressing global challenges: climate change and pollution. Through advanced climate modeling and data-driven environmental policies, AI provides a pathway to combat these issues and pave the way for a greener future.
 

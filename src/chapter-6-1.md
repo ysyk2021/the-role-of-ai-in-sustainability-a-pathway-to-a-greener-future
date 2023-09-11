@@ -1,5 +1,4 @@
-Chapter 9: Adopting a Sustainable Lifestyle and Reducing Your Environmental Footprint with AI Support
-=====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how individuals can adopt a sustainable lifestyle and reduce their environmental footprint with the assistance of artificial intelligence (AI). AI technologies offer valuable tools and insights that can empower individuals to make eco-conscious choices in their daily lives, contributing to a greener and more sustainable future.
 

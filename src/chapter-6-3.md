@@ -1,5 +1,4 @@
-Chapter 8: Collaborating with AI to Create Sustainable Solutions and Innovations for the Future
-===============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting realm of collaboration between humans and artificial intelligence (AI) in the pursuit of sustainable solutions and innovations. AI holds tremendous potential to augment human creativity and problem-solving abilities, enabling us to address complex environmental challenges and pave the way for a greener and more sustainable future.
 
